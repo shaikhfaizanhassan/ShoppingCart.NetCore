@@ -1,0 +1,24 @@
+﻿@model Shopping_cart.Models.Category
+@{
+    ViewData["Title"] = "AddCategory";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+
+<div class="tile">
+    <h3 class="tile-title">Add New Category </h3>
+    <form asp-controller="Category" asp-action="AddCategory" method="post">
+        <table class="table">
+            <tr>
+                <td>Enter Category</td>
+                <td><input type="text" asp-for="CName" class="form-control" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" class="btn btn-primary" /></td>
+            </tr>
+
+        </table>
+    </form>
+    
+</div>

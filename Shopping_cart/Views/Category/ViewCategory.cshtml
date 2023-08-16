@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Shopping_cart.Models.Category>
+@{
+    ViewData["Title"] = "ViewCategory";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+
+<div class="tile">
+    <h3 class="tile-title">View Category </h3>
+    <form asp-controller="Category" asp-action="AddCategory" method="post">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tbody>
+                    <tr>
+                        <td>@item.CId</td>
+                        <td>@item.CName</td>
+                        <td>
+                            <a href="" class="btn btn-success">Edit</a>
+                            <a href="" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                </tbody>
+
+            }
+            
+
+        </table>
+    </form>
+
+</div>
