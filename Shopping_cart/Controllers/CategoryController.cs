@@ -36,6 +36,7 @@ namespace Shopping_cart.Controllers
 
         public IActionResult ViewCategory()
         {
+		//hello
             var getallcategory = db.categories.ToList();
             return View(getallcategory);
         }
