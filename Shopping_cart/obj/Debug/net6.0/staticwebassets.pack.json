@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\Dashboard\\js\\jquery-3.2.1.min.js"
     },
     {
+      "Id": "C:\\Users\\admin\\source\\repos\\Shopping_cart\\Shopping_cart\\wwwroot\\Dashboard\\js\\jquerydata.js",
+      "PackagePath": "staticwebassets\\Dashboard\\js\\jquerydata.js"
+    },
+    {
       "Id": "C:\\Users\\admin\\source\\repos\\Shopping_cart\\Shopping_cart\\wwwroot\\Dashboard\\js\\main.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\main.js"
     },

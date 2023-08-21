@@ -6,6 +6,7 @@
     <title>@ViewBag.Title</title>
     <link rel="stylesheet" type="text/css" href="~/Dashboard/css/main.css">
     <!-- Font-icon css-->
+  
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
@@ -120,8 +121,9 @@
             <li class="treeview">
                 <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-laptop"></i><span class="app-menu__label">Brand</span><i class="treeview-indicator fa fa-angle-right"></i></a>
                 <ul class="treeview-menu">
-                    <li><a class="treeview-item" href="bootstrap-components.html"><i class="icon fa fa-circle-o"></i>Add Brand</a></li>
-                    <li><a class="treeview-item" href="https://fontawesome.com/v4.7.0/icons/" target="_blank" rel="noopener"><i class="icon fa fa-circle-o"></i>View Brand</a></li>
+                    <li><a class="treeview-item" asp-controller="Brands" asp-action="AddBrand"> <i class="icon fa fa-circle-o"></i>Add Brand</a></li>
+
+                    <li><a class="treeview-item" asp-controller="Brands" asp-action="ViewBrand"> <i class="icon fa fa-circle-o"></i>View Brand</a></li>
 
                 </ul>
             </li>
@@ -183,10 +185,10 @@
 
 
 
-    
 
 
-    <script src="~/Dashboard/js/jquery-3.2.1.min.js"></script>
+
+    <script src="~/Dashboard/js/jquerydata.js"></script>
     <script src="~/Dashboard/js/popper.min.js"></script>
     <script src="~/Dashboard/js/bootstrap.min.js"></script>
     <script src="~/Dashboard/js/main.js"></script>

@@ -4,11 +4,11 @@
     Layout = "~/Views/Shared/_DashboardLayout.cshtml";
 }
 
-
 <div class="tile">
     <h3 class="tile-title">View Category </h3>
+    <table class="table" id="myTable">
     <form asp-controller="Category" asp-action="AddCategory" method="post">
-        <table class="table">
+       
             <thead>
                 <tr>
                     <th>ID</th>
@@ -32,7 +32,8 @@
             }
             
 
-        </table>
+        
     </form>
-
+    </table>
 </div>
+
