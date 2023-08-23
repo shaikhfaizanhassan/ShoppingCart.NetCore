@@ -10692,11 +10692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Shopping_cart\\Shopping_cart\\Shopping_cart.csproj",
+      "projectUniqueName": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\Shopping_cart.csproj",
       "projectName": "Shopping_cart",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\Shopping_cart\\Shopping_cart\\Shopping_cart.csproj",
+      "projectPath": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\Shopping_cart.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\Shopping_cart\\Shopping_cart\\obj\\",
+      "outputPath": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

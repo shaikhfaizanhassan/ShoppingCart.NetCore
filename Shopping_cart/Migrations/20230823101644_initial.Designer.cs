@@ -11,7 +11,7 @@ using Shopping_cart.Models;
 namespace Shopping_cart.Migrations
 {
     [DbContext(typeof(ShopDbContext))]
-    [Migration("20230816064745_initial")]
+    [Migration("20230823101644_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
