@@ -1,331 +1,1143 @@
 {
   "Files": [
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shopping_cart.bundle.scp.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shopping_cart.bundle.scp.css",
       "PackagePath": "staticwebassets\\Shopping_cart.bundle.scp.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Content\\ProductImage\\ 3310.jpg",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Content\\ProductImage\\ 3310.jpg",
       "PackagePath": "staticwebassets\\Content\\ProductImage\\ 3310.jpg"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\css\\main.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Content\\ProductImage\\ bags.jpg",
+      "PackagePath": "staticwebassets\\Content\\ProductImage\\ bags.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Content\\ProductImage\\ nikon.jpg",
+      "PackagePath": "staticwebassets\\Content\\ProductImage\\ nikon.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Content\\ProductImage\\ sam.jpg",
+      "PackagePath": "staticwebassets\\Content\\ProductImage\\ sam.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Content\\ProductImage\\ sams.jpg",
+      "PackagePath": "staticwebassets\\Content\\ProductImage\\ sams.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\css\\main.css",
       "PackagePath": "staticwebassets\\Dashboard\\css\\main.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\bootstrap.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\jquery-3.2.1.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\jquerydata.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\jquerydata.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\jquerydata.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\main.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\main.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\main.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\bootstrap-datepicker.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\bootstrap-datepicker.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\bootstrap-datepicker.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\bootstrap-notify.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\bootstrap-notify.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\bootstrap-notify.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\chart.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\chart.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\chart.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\dataTables.bootstrap.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\dataTables.bootstrap.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\dataTables.bootstrap.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\fullcalendar.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\fullcalendar.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\fullcalendar.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\jquery-ui.custom.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\jquery-ui.custom.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\jquery-ui.custom.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\jquery.dataTables.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\jquery.dataTables.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\jquery.dataTables.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\jquery.vmap.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\jquery.vmap.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\jquery.vmap.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\jquery.vmap.sampledata.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\jquery.vmap.sampledata.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\jquery.vmap.sampledata.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\jquery.vmap.world.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\jquery.vmap.world.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\jquery.vmap.world.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\moment.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\moment.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\moment.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\pace.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\pace.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\pace.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\select2.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\select2.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\select2.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\sweetalert.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\plugins\\sweetalert.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\plugins\\sweetalert.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\popper.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\Dashboard\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\Dashboard\\js\\popper.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\css\\site.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\css\\style.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\css\\style.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\FrontDesign\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\css\\style.map",
+      "PackagePath": "staticwebassets\\FrontDesign\\css\\style.map"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\FrontDesign\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\.DS_Store"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\b1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\b1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\b2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\b2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\b3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\b3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\banner\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\banner\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\.DS_Store",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\.DS_Store"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\author.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\blog1.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\blog1.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\blog2.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\blog2.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\blog3.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\blog3.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\c1.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\c1.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\c2.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\c2.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\c3.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\c3.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\breadcrumb\\checkout-bg.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\breadcrumb\\checkout-bg.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\_DS_Store",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\fevicon.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\fevicon.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\i1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\i1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\i2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\i2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\i3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\i3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\i4.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\i4.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\i5.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\i5.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\i6.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\i6.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\i7.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\i7.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\i8.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\i8.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\widget-i1.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\widget-i1.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\widget-i2.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\widget-i2.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\widget-i3.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\widget-i3.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\widget-i4.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\widget-i4.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\widget-i5.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\widget-i5.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\instagram\\widget-i6.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\instagram\\widget-i6.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\login.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\logo.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\offer-bg.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\offer-bg.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\.DS_Store",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\.DS_Store"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\feature-product\\f-p-1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\feature-product\\f-p-1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\feature-product\\f-p-2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\feature-product\\f-p-2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\feature-product\\f-p-3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\feature-product\\f-p-3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\inspired-product\\i1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\inspired-product\\i1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\inspired-product\\i2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\inspired-product\\i2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\inspired-product\\i3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\inspired-product\\i3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\inspired-product\\i4.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\inspired-product\\i4.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\inspired-product\\i5.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\inspired-product\\i5.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\inspired-product\\i6.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\inspired-product\\i6.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\inspired-product\\i7.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\inspired-product\\i7.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\inspired-product\\i8.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\inspired-product\\i8.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-10.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-10.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-11.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-11.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-12.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-12.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-4.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-4.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-5.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-5.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-6.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-6.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-7.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-7.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-8.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-8.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\most-product\\m-product-9.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\most-product\\m-product-9.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\new-product\\n1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\new-product\\n1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\new-product\\n2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\new-product\\n2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\new-product\\n3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\new-product\\n3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\new-product\\n4.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\new-product\\n4.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\new-product\\new-product1.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\new-product\\new-product1.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\single-product\\card.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\single-product\\card.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\single-product\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\single-product\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\single-product\\review-1.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\single-product\\review-1.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\single-product\\review-2.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\single-product\\review-2.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\single-product\\review-3.png",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\single-product\\review-3.png"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\single-product\\s-product-1.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\single-product\\s-product-1.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\single-product\\s-product-s-2.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\single-product\\s-product-s-2.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\single-product\\s-product-s-3.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\single-product\\s-product-s-3.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\img\\product\\single-product\\s-product-s-4.jpg",
+      "PackagePath": "staticwebassets\\FrontDesign\\img\\product\\single-product\\s-product-s-4.jpg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\contact.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\custom.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\jquery.form.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\mail-script.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\popper.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\stellar.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\stellar.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\js\\theme.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\js\\theme.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_blog.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_button.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_clients.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_clients.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_contact.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_elements.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_feature.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_feature.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_header.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_offer.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_offer.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_predefine.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_predefine.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_product.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_product.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\FrontDesign\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\animate-css\\animate.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\animate-css\\animate.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\animate-css\\wow.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\animate-css\\wow.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\bootstrap-datepicker\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\bootstrap-datepicker\\bootstrap-select.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\bootstrap-datepicker\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\bootstrap-datepicker\\bootstrap-select.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\counter-up\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\counter-up\\jquery.counterup.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\counter-up\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\counter-up\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\flipclock\\timer.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\flipclock\\timer.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\isotope\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\isotope\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\isotope\\isotope-min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\isotope\\isotope-min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\lightbox\\simpleLightbox.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\lightbox\\simpleLightbox.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\lightbox\\simpleLightbox.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\lightbox\\simpleLightbox.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\linericon\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\linericon\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\linericon\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\linericon\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\linericon\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\linericon\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\linericon\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\linericon\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\linericon\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\linericon\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\linericon\\style.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\linericon\\style.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\nice-select\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\nice-select\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\nice-select\\css\\style.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\nice-select\\css\\style.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\nice-select\\js\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\nice-select\\js\\jquery.nice-select.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\nice-select\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\nice-select\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\owl-carousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\owl-carousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\owl-carousel\\assets\\animated.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\owl-carousel\\assets\\animated.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\owl-carousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\owl-carousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\FrontDesign\\vendors\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\FrontDesign\\vendors\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\favicon.ico",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\js\\site.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\shoppingcart\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\shoppingcart.netcorre\\ShoppingCart.NetCore\\Shopping_cart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

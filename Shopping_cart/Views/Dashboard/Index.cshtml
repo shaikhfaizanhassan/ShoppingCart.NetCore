@@ -1,0 +1,40 @@
+﻿@model Shopping_cart.Models.Admin
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<div class="container">
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">WebSiteName</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                <li><a href="#">Page 1</a></li>
+                <li><a href="#">Page 2</a></li>
+                <li><a href="#">Page 3</a></li>
+            </ul>
+        </div>
+    </nav>
+    <h1>Admin Login</h1>
+        <form method="post" asp-controller="Dashboard" asp-action="Index">
+                    <table class="table" style="background-color:gray; color:white; font-weight:bolder">
+                            <tr>
+                                <td>Email</td>
+                                <td><input type="text" asp-for="Username" class="form-control" /></td>
+                            </tr>
+                            <tr>
+                                <td>Password</td>
+                                <td><input type="password" asp-for="Password" class="form-control" /></td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td><input type="submit" class="btn btn-primary" /></td>
+                            </tr>
+
+
+                    </table>
+        </form>
+    <h1>@TempData["erorrmsg"]</h1>
+</div>
