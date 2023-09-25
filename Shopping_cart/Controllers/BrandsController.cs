@@ -39,5 +39,11 @@ namespace Shopping_cart.Controllers
             var getbrnad = db.brands.ToList();
             return View(getbrnad);
         }
+
+        public IActionResult BrandDropdown()
+        {
+            List<Brand> brands = db.brands.ToList();
+            return PartialView("_BrandDropdown", brands);
+        }
     }
 }
