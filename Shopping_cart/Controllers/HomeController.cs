@@ -14,7 +14,7 @@ namespace Shopping_cart.Controllers
         }
         public IActionResult Index()
         {
-            var getpro = db.products.ToList();
+            var getpro = db.brands.ToList();
             return View(getpro);
         }
     }

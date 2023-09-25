@@ -1,0 +1,13 @@
+﻿@model List<Brand>
+@{
+    ViewBag.title = "Brands";
+    Layout = "_FrontLayout";
+}
+
+<select id="brandDropdown" class="form-control">
+    <option value="">Brands</option>
+    @foreach (var brand in Model)
+    {
+        <option value="@brand.BId">@brand.BName</option>
+    }
+</select>
